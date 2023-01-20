@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
-<h3 align="center">"Software Engineer | Code enthusiast | Building with C++, Java" "Crafting elegant solutions | Always learning | Open for collaborations</h3>
-img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif)"
+<br>
+<h3 align="center">Software Engineer | Code enthusiast | Building with C++, Java</h3>
+<h3 align="center">Crafting elegant solutions | Always learning | Open for collaborations</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumar-09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshkumar-09" alt="rajeshkumar-09" /></a> </p>
