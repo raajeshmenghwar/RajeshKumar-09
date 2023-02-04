@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 <br>
-<h3 align="center">Software Engineer | Code enthusiast | Building with C++, Java</h3>
 <h3 align="center">Crafting elegant solutions | Always learning | Open for collaborations</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshkumar-09&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshkumar-09" /> </p>
 
